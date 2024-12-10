@@ -1,0 +1,223 @@
+[09:35:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:35:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:35:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:35:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:35:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:35:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:35:35] [main/INFO]: Reloading ResourceManager: Default, 1.zip
+[09:35:38] [Worker-Main-2/INFO]: Loaded 7 recipes
+[09:35:39] [Worker-Main-2/INFO]: Loaded 927 advancements
+[09:35:43] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[09:35:43] [Server thread/INFO]: Loading properties
+[09:35:43] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[09:35:43] [Server thread/INFO]: Default game type: SURVIVAL
+[09:35:43] [Server thread/INFO]: Generating keypair
+[09:35:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:35:43] [Server thread/INFO]: Using epoll channel type
+[09:35:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:35:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:35:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:35:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:35:43] [Server thread/INFO]: Preparing level "world"
+[09:35:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:47] [Server thread/INFO]: Preparing spawn area: 0%
+[09:35:48] [Server thread/INFO]: Preparing spawn area: 23%
+[09:35:48] [Server thread/INFO]: Preparing spawn area: 92%
+[09:35:48] [Server thread/INFO]: Time elapsed: 4811 ms
+[09:35:48] [Server thread/INFO]: Done (4.963s)! For help, type "help"
+[09:35:56] [Server thread/INFO]: felipeka12345[/127.55.243.249:55875] logged in with entity id 53 at (45.32026830908301, 119.0, -105.31524423240462)
+[09:35:56] [Server thread/INFO]: felipeka12345 joined the game
+[09:36:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09:36:11] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:52437] logged in with entity id 206 at (-731.4032776126683, 72.0, -564.7928240587842)
+[09:36:11] [Server thread/INFO]: kevajsiqjs joined the game
+[09:36:24] [Server thread/INFO]: <felipeka12345> klk
+[09:36:30] [Server thread/INFO]: <kevajsiqjs> hi
+[09:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19787ms or 395 ticks behind
+[09:36:54] [Server thread/INFO]: <felipeka12345> se demoro mas de lo q pensaba
+[09:37:01] [Server thread/INFO]: <kevajsiqjs> diablo
+[09:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16825ms or 336 ticks behind
+[09:37:14] [Server thread/INFO]: <felipeka12345> estoy en tu base
+[09:37:16] [Server thread/INFO]: <kevajsiqjs> yo estoy aplanando
+[09:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14030ms or 280 ticks behind
+[09:37:44] [Server thread/INFO]: <felipeka12345> llamaita o k?
+[09:37:52] [Server thread/INFO]: <kevajsiqjs> uh
+[09:37:57] [Server thread/INFO]: <kevajsiqjs> me la meten
+[09:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4486ms or 89 ticks behind
+[09:38:01] [Server thread/INFO]: <felipeka12345> XD
+[09:38:22] [Server thread/INFO]: <felipeka12345> q hiciste mientras no estaba
+[09:38:29] [Server thread/INFO]: <kevajsiqjs> veni
+[09:38:33] [Server thread/INFO]: <felipeka12345> estoy llendo
+[09:38:43] [Server thread/INFO]: <felipeka12345> bro tengo mucho frio
+[09:38:46] [Server thread/INFO]: <felipeka12345> estoy temblando xd
+[09:38:55] [Server thread/INFO]: <kevajsiqjs> diablo
+[09:39:10] [Server thread/INFO]: <kevajsiqjs> una nocturna y sale
+[09:39:13] [Server thread/INFO]: <felipeka12345> XD
+[09:39:19] [Server thread/INFO]: <kevajsiqjs> ontas
+[09:39:21] [Server thread/INFO]: <felipeka12345> estoy
+[09:39:24] [Server thread/INFO]: <felipeka12345> aldeanos
+[09:40:16] [Server thread/INFO]: <felipeka12345> uhhh
+[09:40:27] [Server thread/INFO]: <felipeka12345> y q haras?
+[09:40:39] [Server thread/INFO]: <kevajsiqjs> la granja de hierro
+[09:40:43] [Server thread/INFO]: <felipeka12345> gotii
+[09:40:45] [Server thread/INFO]: <kevajsiqjs> trang hold
+[09:40:51] [Server thread/INFO]: <felipeka12345> bro
+[09:40:56] [Server thread/INFO]: <kevajsiqjs> y granha de aldeanos
+[09:40:58] [Server thread/INFO]: <kevajsiqjs> q
+[09:41:01] [Server thread/INFO]: <felipeka12345> quien se conecta temrpano pa jugar xd
+[09:41:07] [Server thread/INFO]: <kevajsiqjs> jmm
+[09:41:09] [Server thread/INFO]: <kevajsiqjs> nosotros
+[09:41:19] [Server thread/INFO]: <felipeka12345> jumm
+[09:41:31] [Server thread/INFO]: <felipeka12345> no me costo nada sacarlos
+[09:41:35] [Server thread/INFO]: <felipeka12345> vienes a mi base a verla xd?
+[09:41:43] [Server thread/INFO]: <felipeka12345> os
+[09:41:48] [Server thread/INFO]: <felipeka12345> vamos
+[09:41:48] [Server thread/WARN]: kevajsiqjs moved too quickly! -7.510231799765165,-1.2491870787446828,-6.559418815985282
+[09:41:48] [Server thread/WARN]: felipeka12345 moved too quickly! -8.418276951432631,0.7531999805212024,-5.946837566890281
+[09:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[09:42:10] [Server thread/INFO]: Villager bfj['Villager'/374, l='ServerLevel[world]', x=-757.12, y=85.90, z=-644.96] died, message: 'Villager was slain by Zombie'
+[09:43:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[09:43:47] [Server thread/INFO]: <felipeka12345> voy lag
+[09:43:58] [Server thread/INFO]: <kevajsiqjs> x2
+[09:45:02] [Server thread/INFO]: <felipeka12345> mi mesa crick
+[09:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[09:45:28] [Server thread/INFO]: <kevajsiqjs> damela
+[09:45:33] [Server thread/INFO]: <felipeka12345> no
+[09:45:43] [Server thread/INFO]: <kevajsiqjs> te di armor barata
+[09:45:58] [Server thread/INFO]: <felipeka12345> ja quizuqe barata
+[09:46:03] [Server thread/INFO]: <kevajsiqjs> si
+[09:46:12] [Server thread/INFO]: <felipeka12345> me tomo tiempo la repair
+[09:46:16] [Server thread/INFO]: <felipeka12345> como 15 minutos
+[09:46:17] [Server thread/INFO]: <kevajsiqjs> me sale a 90 diamos
+[09:46:24] [Server thread/INFO]: <felipeka12345> dejamela aca y la compartimos si queres
+[09:46:29] [Server thread/INFO]: <felipeka12345> venis cuando la quieras cusar
+[09:46:44] [Server thread/INFO]: <felipeka12345> venis cuando la quieras cusar
+[09:46:45] [Server thread/INFO]: <felipeka12345> venis cuando la quieras cusar
+[09:46:46] [Server thread/INFO]: <kevajsiqjs> dame 1 diamon
+[09:47:01] [Server thread/INFO]: <felipeka12345> god
+[09:47:12] [Server thread/INFO]: <felipeka12345> esta es mi base
+[09:48:20] [Server thread/INFO]: <kevajsiqjs> diablo
+[09:48:33] [Server thread/INFO]: <felipeka12345> tramee mis libro
+[09:48:35] [Server thread/INFO]: <felipeka12345> broo
+[09:48:41] [Server thread/INFO]: <felipeka12345> traeme los libros del cofre
+[09:49:01] [Server thread/INFO]: <kevajsiqjs> esos arboles
+[09:49:02] [Server thread/INFO]: <kevajsiqjs> q
+[09:49:03] [Server thread/INFO]: <felipeka12345> goti
+[09:49:16] [Server thread/INFO]: <kevajsiqjs> chi
+[09:49:24] [Server thread/INFO]: <felipeka12345> 5 de estos arboles me dan 50 esmeraldas
+[09:49:37] [Server thread/INFO]: <kevajsiqjs> diablo
+[09:49:40] [Server thread/INFO]: <felipeka12345> xD
+[09:49:46] [Server thread/INFO]: <felipeka12345> tengo mucho cultivo
+[09:49:48] [Server thread/INFO]: <felipeka12345> ven y miras
+[09:50:25] [Server thread/INFO]: <kevajsiqjs> me voy vro
+[09:50:25] [Server thread/INFO]: <felipeka12345> y tengo mas
+[09:50:32] [Server thread/INFO]: <felipeka12345> pa la casa?
+[09:50:35] [Server thread/INFO]: <felipeka12345> o a dormir
+[09:50:35] [Server thread/INFO]: <felipeka12345> xd
+[09:50:43] [Server thread/INFO]: <kevajsiqjs> a la cas
+[09:50:46] [Server thread/INFO]: <felipeka12345> dale pue
+[09:50:51] [Server thread/INFO]: <felipeka12345> voy a seguir farming
+[09:50:55] [Server thread/INFO]: <kevajsiqjs> a hacer la granja y a aplanar
+[09:50:58] [Server thread/INFO]: <felipeka12345> dale
+[09:51:11] [Server thread/INFO]: <felipeka12345> tienes lana q me vendas?
+[09:51:19] [Server thread/INFO]: <kevajsiqjs> no bro
+[09:51:25] [Server thread/INFO]: <felipeka12345> camas?
+[09:51:27] [Server thread/INFO]: <felipeka12345> 5 camas
+[09:51:35] [Server thread/INFO]: <kevajsiqjs> veni
+[09:51:42] [Server thread/INFO]: <felipeka12345> pera farmeo y voy
+[09:51:54] [Server thread/WARN]: kevajsiqjs moved too quickly! 0.0,0.0,-10.11902035974979
+[09:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[09:53:58] [Server thread/INFO]: <felipeka12345> un arbol me dio 2 stacks de tronco
+[09:54:00] [Server thread/INFO]: <felipeka12345> re loko
+[09:54:13] [Server thread/INFO]: <kevajsiqjs> xd
+[09:55:06] [Server thread/WARN]: felipeka12345 was kicked for floating too long!
+[09:55:06] [Server thread/INFO]: felipeka12345 lost connection: Flying is not enabled on this server
+[09:55:06] [Server thread/INFO]: felipeka12345 left the game
+[09:55:06] [Server thread/WARN]: handleDisconnection() called twice
+[09:55:18] [Server thread/INFO]: felipeka12345[/127.55.243.249:56753] logged in with entity id 7227 at (347.32350818541704, 70.97084494654199, 1110.6076424997748)
+[09:55:18] [Server thread/INFO]: felipeka12345 joined the game
+[09:55:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09:56:59] [Server thread/WARN]: kevajsiqjs moved too quickly! -9.232738941201319,1.0,4.270964362536006
+[09:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[09:58:37] [Server thread/INFO]: <felipeka12345> puedes mimir?
+[09:58:47] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
+[09:58:47] [Server thread/INFO]: kevajsiqjs left the game
+[09:58:57] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:57607] logged in with entity id 8906 at (-768.3053246036147, 83.0, -624.9701838079859)
+[09:58:57] [Server thread/INFO]: kevajsiqjs joined the game
+[09:59:01] [Server thread/INFO]: <felipeka12345> salte denuevo
+[09:59:03] [Server thread/INFO]: <felipeka12345> no alcanze
+[09:59:03] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
+[09:59:03] [Server thread/INFO]: kevajsiqjs left the game
+[09:59:09] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:43575] logged in with entity id 9616 at (-768.3053246036147, 83.0, -624.9701838079859)
+[09:59:09] [Server thread/INFO]: kevajsiqjs joined the game
+[10:04:16] [Server thread/INFO]: <felipeka12345> 15 stacks de madera
+[10:04:18] [Server thread/INFO]: <felipeka12345> de locos
+[10:04:35] [Server thread/INFO]: <kevajsiqjs> diablo
+[10:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[10:07:14] [Server thread/INFO]: <felipeka12345> 54 esmeraldas y gaste 40
+[10:07:17] [Server thread/INFO]: <felipeka12345> XD
+[10:07:25] [Server thread/INFO]: <kevajsiqjs> diablo
+[10:07:33] [Server thread/INFO]: <felipeka12345> y me sobran 10 stacks de madera
+[10:08:10] [Server thread/INFO]: <felipeka12345> y me sobran 10 stacks de madera
+[10:08:10] [Server thread/INFO]: <felipeka12345> y me sobran 10 stacks de madera
+[10:08:10] [Server thread/INFO]: <felipeka12345> y me sobran 10 stacks de madera
+[10:08:20] [Server thread/INFO]: <kevajsiqjs> pasa
+[10:08:27] [Server thread/INFO]: <felipeka12345> ñ
+[10:08:28] [Server thread/INFO]: <felipeka12345> o
+[10:08:44] [Server thread/INFO]: <felipeka12345> voy a hacer trading hall
+[10:08:48] [Server thread/INFO]: <felipeka12345> y granja de aldeanos
+[10:10:12] [Server thread/INFO]: <felipeka12345> duermes?
+[10:10:20] [Server thread/INFO]: <felipeka12345> duermes?
+[10:10:22] [Server thread/INFO]: <felipeka12345> duermes?
+[10:10:28] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
+[10:10:28] [Server thread/INFO]: kevajsiqjs left the game
+[10:10:37] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:46323] logged in with entity id 13881 at (-746.2154241370059, 73.0, -547.7980538235879)
+[10:10:37] [Server thread/INFO]: kevajsiqjs joined the game
+[10:10:48] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Creative Mode]
+[10:15:00] [Server thread/INFO]: <felipeka12345> un stack y 32 de esmeralda
+[10:15:03] [Server thread/INFO]: <felipeka12345> de loko
+[10:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[10:18:16] [Server thread/INFO]: <felipeka12345> bro
+[10:18:20] [Server thread/INFO]: <felipeka12345> como se hace una afiladora
+[10:18:23] [Server thread/INFO]: <felipeka12345> puedes mirar?
+[10:18:34] [Server thread/INFO]: <kevajsiqjs> cocina piedra
+[10:18:40] [Server thread/INFO]: <felipeka12345> k?
+[10:18:44] [Server thread/INFO]: <felipeka12345> aya
+[10:18:47] [Server thread/INFO]: <kevajsiqjs> cocina piedra
+[10:20:22] [Server thread/INFO]: <felipeka12345> y luego?
+[10:20:26] [Server thread/INFO]: <felipeka12345> bueno mas bien
+[10:20:33] [Server thread/INFO]: <felipeka12345> como se hace el vaino con el q uno desencanta
+[10:20:51] [Server thread/INFO]: <kevajsiqjs> ya tenes
+[10:20:58] [Server thread/INFO]: <kevajsiqjs> piedra cocinada
+[10:21:00] [Server thread/INFO]: <kevajsiqjs> si
+[10:21:03] [Server thread/INFO]: <felipeka12345> shi
+[10:21:20] [Server thread/INFO]: <felipeka12345> puta
+[10:21:24] [Server thread/INFO]: <felipeka12345> necesito libros
+[10:21:30] [Server thread/INFO]: <kevajsiqjs> diablo
+[10:21:38] [Server thread/INFO]: <kevajsiqjs> ase una loa de piedra
+[10:22:25] [Server thread/INFO]: <felipeka12345> lptm
+[10:22:40] [Server thread/INFO]: <felipeka12345> hijo de perra no me da libros
+[10:22:55] [Server thread/INFO]: <kevajsiqjs> NO
+[10:23:24] [Server thread/INFO]: <felipeka12345> necesitare caña
+[10:23:40] [Server thread/INFO]: <felipeka12345> en cantidades industriales
+[10:24:02] [Server thread/INFO]: <felipeka12345> pvp de esqueleto
+[10:24:09] [Server thread/INFO]: <kevajsiqjs> diablo
+[10:24:30] [Server thread/INFO]: <felipeka12345> encontre caña
+[10:24:31] [Server thread/INFO]: <felipeka12345> :D
+[10:25:00] [Server thread/INFO]: <felipeka12345> no se puede crecer con polvo de hueso?
+[10:25:08] [Server thread/INFO]: kevajsiqjs lost connection: Timed out
+[10:25:08] [Server thread/INFO]: kevajsiqjs left the game
+[10:26:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[10:34:19] [Server thread/WARN]: felipeka12345 moved wrongly!
+[10:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[10:37:15] [Server thread/WARN]: felipeka12345 was kicked for floating too long!
+[10:37:15] [Server thread/INFO]: felipeka12345 lost connection: Flying is not enabled on this server
+[10:37:15] [Server thread/INFO]: felipeka12345 left the game
+[10:37:21] [Server thread/INFO]: felipeka12345[/127.55.243.249:46643] logged in with entity id 21012 at (-945.1898759532683, 76.35739651627259, -752.1517452657363)
+[10:37:21] [Server thread/INFO]: felipeka12345 joined the game
